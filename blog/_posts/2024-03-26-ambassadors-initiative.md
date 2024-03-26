@@ -13,4 +13,4 @@ As an ordinary Scala user, the initiative is aimed to put the active and helpful
 
 Currently, we are in the process of selecting and onboarding the first group of Ambassadors. Stay tuned for more information about the Scala Ambassadors initiative and the Ambassadors themselves!
 
-You can find more details and the list of ambassadors [here](TODO).
+You can find more details and the list of ambassadors [here](https://scala-lang.org/ambassadors).
